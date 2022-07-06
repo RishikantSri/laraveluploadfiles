@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<igtapps>
+  <employee>
+    <name>EMP1</name>
+    <email>emp1@gmail.com</email>
+    <designation>Sr. Developer</designation>
+    <address_line1>India</address_line1>
+  </employee>
+  <employee>
+    <name>EMP2</name>
+    <email>emp2@gmail.com</email>
+    <designation>Sr. Developer</designation>
+    <address_line1>India</address_line1>
+  </employee>
+</igtapps>
